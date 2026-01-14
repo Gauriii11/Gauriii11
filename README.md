@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Gauri Shinde</h1>
+<h1 align="center">Hi 👋, I'm Gauri S</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 - 🔭 I’m currently working on: Java | Python | Selenium | TestNG | Maven 
