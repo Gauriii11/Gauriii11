@@ -46,8 +46,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
   <img width="12" />
 </div>  
-
-
-<div align="left">
-  <h6><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauriii11&" alt="gauriii11" /></h6>
-</div>
