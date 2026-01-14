@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on: Java | Python | Selenium | TestNG | Maven 
 
-- 🌱 I’m currently learning: Automation | SQL | Java | Python | AWS | Playwright
+- 🌱 I’m currently learning: Automation | SQL | Java | Python | Playwright
 
 - 💬 Brainstorm with me over tech, career, and music
   
