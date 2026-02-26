@@ -46,3 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
   <img width="12" />
 </div>  
+<br><br>
+
+<a href="https://app.daily.dev/gauris11"><img src="https://api.daily.dev/devcards/v2/91odZ38OWQ2YpPE9SmlgD.png?r=8l8&type=default" width="356" alt="gauris's Dev Card"/></a>
